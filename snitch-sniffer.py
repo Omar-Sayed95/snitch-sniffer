@@ -1,5 +1,4 @@
-
-
-
 print ("Hello world!)
-print("Ahmad")
+print ("Mostafa")
+print ("Waley")
+
